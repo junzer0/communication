@@ -34,7 +34,7 @@
 - 주로 다이버시티를 활용하여 해결
 - TDMA -> 등화기 사용, CDMA -> 레이크 수신기 활용
 
-![다중 경로 페이딩](./img/multi-path-fading.png)
+![다중 경로 페이딩](img/multi-path-fading.png)
 
 ## 1.2. 전파와 주파수
 - 저주파대역: 600MHz~900MHz(2G, 3G)
